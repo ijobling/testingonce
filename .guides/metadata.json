@@ -1,0 +1,52 @@
+{
+ "sections": [
+  {
+   "id": "c3428ee9-f70d-4592-b51f-0dbd821e6707",
+   "title": "1.5 Values and types",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "#terminal: clear; bash start-shell.sh",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-5-Values-and-types-c342.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  },
+  {
+   "id": "ef66bab9-e8a9-47d2-84fe-a56ea243afe9",
+   "title": "1.6 Formal and natural languages",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/1-6-Formal-and-natural-languages-ef66.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false,
+   "learningObjectives": ""
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "CyberSecurity",
+ "suppressPageNumbering": true,
+ "useSubmitButtons": true,
+ "useMarkAsComplete": true,
+ "hideMenu": true,
+ "allowGuideClose": false,
+ "collapsedOnStart": false,
+ "hideSectionsToggle": false,
+ "hideBackToDashboard": false,
+ "protectLayout": false
+}

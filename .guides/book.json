@@ -1,0 +1,18 @@
+{
+ "title": "",
+ "children": [
+  {
+   "title": "1.5 Values and types",
+   "id": "b09da506-5039-415f-8fd7-26bf6f83f4ac",
+   "type": "page",
+   "pageId": "c3428ee9-f70d-4592-b51f-0dbd821e6707"
+  },
+  {
+   "title": "1.6 Formal and natural languages",
+   "id": "99ebf212-933e-4ba8-b60d-a298c90be5a1",
+   "type": "page",
+   "pageId": "ef66bab9-e8a9-47d2-84fe-a56ea243afe9"
+  }
+ ],
+ "name": "Think Python"
+}
